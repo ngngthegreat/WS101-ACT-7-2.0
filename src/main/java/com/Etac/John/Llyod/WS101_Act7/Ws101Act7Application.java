@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Ws101Act7Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Ws101Act7Application.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(Ws101Act7Application.class, args);
+    }
 }
